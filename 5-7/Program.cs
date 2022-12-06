@@ -33,6 +33,10 @@ namespace Polymorphism_2
         {
             Console.WriteLine("I am Line");
         }
+        public void CalArea()
+        {
+            Console.WriteLine("no area");
+        }
 
     }
     class Program
